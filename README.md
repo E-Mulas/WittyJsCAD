@@ -1,6 +1,6 @@
 # @jscad/web: OpenJSCAD Web UI
 
-This is the Web based UI for [OpenJsCAD](https://github.com/jscad/OpenJSCAD.org), either to host yourself, or use directly at https://openjscad.org/.
+WittyJsCAD is a modified Web based UI flavor for [OpenJsCAD](https://github.com/jscad/OpenJSCAD.org), either to host yourself, or use directly at https://openjscad.org/.
 
 <img src="https://github.com/jscad/OpenJSCAD.org/raw/master/docs/logo.png" width="140" align="right" alt="OpenJSCAD">
 
