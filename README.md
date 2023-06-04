@@ -34,7 +34,7 @@ See also info below:
 
 ### Immediate Use (no installation)
 
-Go to *[OpenJSCAD.org](http://openjscad.org)* (Tested browsers include Chrome, Firefox, Opera, Safari)
+Go to *[wittystore.com](http://wittystore.com)* (Tested browsers include Chrome, Firefox, Opera, Safari)
 
 ### Use within a Web Site (pre built files)
 
