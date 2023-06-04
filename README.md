@@ -1,6 +1,6 @@
 # @jscad/web: OpenJSCAD Web UI
 
-WittyJsCAD is a modified Web based UI flavor of [OpenJsCAD](https://github.com/jscad/OpenJSCAD.org) adapted to wittystore.com. For the original version go to https://openjscad.org/.
+WittyJsCAD is a modified Web based UI flavor of [OpenJsCAD](https://github.com/jscad/OpenJSCAD.org) adapted to https://wittystore.com. For the original version go to https://openjscad.org/.
 
 See also info below:
 
