@@ -34,7 +34,7 @@ See also info below:
 
 ### Immediate Use (no installation)
 
-Go to *[wittystore.com](http://wittystore.com)* (Tested browsers include Chrome, Firefox, Opera, Safari)
+Go to *[wittystore.com]([)](https://www.wittystore.com/apps/openjscad/3d-parametric-cad/)* (Tested browsers include Chrome, Firefox, Opera, Safari)
 
 ### Use within a Web Site (pre built files)
 
